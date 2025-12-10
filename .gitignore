@@ -1,0 +1,35 @@
+# Python
+**/.venv/
+**/venv/
+**__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Node
+**/node_modules/
+**/dist/
+
+# IDE
+**/.idea/
+**/.vscode/
+**/*.swp
+**/.claude/
+
+# OS
+.DS_Store
+
+# Environment
+.env
+.env.local
+
+# root
+/MEMO/
+/AGENTS.md
+/CLAUDE.md
+/todo.md
+
+# backend
+
+# frontend
+/frontend/CLAUDE.md
+**/.vite/
