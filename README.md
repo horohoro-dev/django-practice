@@ -92,4 +92,4 @@ uv run manage.py test inventory
 
 ## Documentation
 
-- [ER Diagram](docs/er-diagram.md)
+- [ER Diagram](backend/docs/er-diagram.md)
